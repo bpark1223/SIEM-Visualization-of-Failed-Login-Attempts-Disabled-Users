@@ -18,4 +18,12 @@
 <img width="1429" alt="Screenshot 2024-06-25 at 6 41 31 PM" src="https://github.com/bpark1223/SIEM-Visualization-of-Failed-Login-Attempts-Disabled-Users/assets/77799235/cbb76189-697f-41d8-933b-e36cdd2328d5">
 <img width="318" alt="Screenshot 2024-06-25 at 6 47 56 PM" src="https://github.com/bpark1223/SIEM-Visualization-of-Failed-Login-Attempts-Disabled-Users/assets/77799235/737dccbd-9ae4-441d-aaeb-80a696bb1cc5">
 </p> 9. I close the "Rows" window and proceed to enter the "Metrics" configuration where I select count as the function. 
+<img width="319" alt="Screenshot 2024-06-25 at 6 48 52 PM" src="https://github.com/bpark1223/SIEM-Visualization-of-Failed-Login-Attempts-Disabled-Users/assets/77799235/90257e7f-1cec-439b-be43-edd048a0b4fd">
+</p> I have created a display of the hostname or machine name alongside the count of failed logon attempts
+<img width="1425" alt="Screenshot 2024-06-25 at 6 52 24 PM" src="https://github.com/bpark1223/SIEM-Visualization-of-Failed-Login-Attempts-Disabled-Users/assets/77799235/95154c9d-53d8-4489-9b22-fce71b3fcc8c">
+</p> What we see now is as follows: </p>
+</p> 1. The disabled user whose credentials generated the failed logon attempt event.</p>
+</p> 2. The machine on which the logon attempt occurred.</p>
+</p> 3. The number of times the event has occurred (based on the specified time frame or the entire data set, depending on the settings).</p>.
+
 
