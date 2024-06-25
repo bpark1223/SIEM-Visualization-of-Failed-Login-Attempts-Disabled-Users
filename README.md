@@ -1,5 +1,5 @@
 # SIEM-Visualization-of-Failed-Login-Attempts-Disabled-Users
-</p> In this project, I will be visualizing failed Windows login attempts against disabled users </p>
+</p> In this project, I will be visualizing failed Windows login attempts against disabled users using Elastic </p>
 </p> 1. After logging in, I click on the edit option for the preconfigured "SOC-Alerts" dashboard
 <img width="1436" alt="Screenshot 2024-06-25 at 3 13 42 PM" src="https://github.com/bpark1223/SIEM-Visualization-of-Failed-Login-Attempts-Disabled-Users/assets/77799235/22ccd194-6065-4ad1-ba0a-121dea49d479"> 
 </p> 2. I then click on the "create visualization button" on the left hand side of the page </p> 
